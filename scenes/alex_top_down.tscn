@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://bg2uta7cm43j8"]
+
+[ext_resource type="Script" path="res://scripts/alex_top_down.gd" id="1_5kioy"]
+
+[node name="Alex_TopDown" type="CharacterBody2D"]
+script = ExtResource("1_5kioy")
