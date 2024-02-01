@@ -1,0 +1,3 @@
+[gd_scene format=3 uid="uid://d37sdqxv0sr8"]
+
+[node name="gros_monstre" type="CharacterBody2D"]
